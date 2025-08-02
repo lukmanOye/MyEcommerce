@@ -1,0 +1,34 @@
+# Compiled files
+*.class
+target/
+build/
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+.nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Maven wrapper (optional, if not needed)
+.mvn/wrapper/maven-wrapper.jar"src/main/resources/application.properties" 
