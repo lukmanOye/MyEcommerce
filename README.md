@@ -40,10 +40,15 @@ The following flowchart illustrates the user journey in MyEcommerce, from authen
 
 
 
-### Workflow Steps
 
 
+### Workflow
+Here's the flowchart of MyEcommerce's user journey:
 
+![MyEcommerce Flowchart](https://github.com/lukmanOye/MyEcommerce/blob/main/src/main/resources/graphviz%20(1).png?raw=true)
+
+
+**### Workflow Steps**
 
 
 Start: User accesses the app.
